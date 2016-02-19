@@ -1,0 +1,1 @@
+wget "http://www.ncbi.nlm.nih.gov/sviewer/viewer.cgi?tool=portal&sendto=on&log$=seqview&db=nuccore&dopt=fasta&sort=&val=251831106&from=begin&to=end&extrafeat=976, http://www.ncbi.nlm.nih.gov/nuccore/NC_012920" -O NC_012920.fasta
