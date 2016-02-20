@@ -3,20 +3,28 @@ bwa index ~/mamaMit/references/NC_012920.1.fasta
 
 # step 2. Aline fasta files
 # the folder "BRCaMt" contain all the raw fastq.gz 
-from file in `ls ~/mamaMit/BRCaMt`
+cd /home/hachepunto/mamaMit/BRCaMt/
+R1=( `ls *R1_001.fastq.gz` )
+R2=( `ls *R2_001.fastq.gz` )
+for i  in `seq ${#R1[@]}` ;
 do
-	bwa   mem   ../references/NC_012920.1.fasta   ~/mamaMit/BRCaMt/$file   ../BRCaMt/B26_S56_L001_R2_001.fastq.gz
-	>  ~/mamaMit/sam/$file.sam;
+        bwa   mem   /home/hachepunto/mamaMit/references/NC_012920.1.fasta \
+                ${R1[$i]} \
+                ${R2[$i]} \
+                > ../sam/${R1[$i]%_L001_R1_001.fastq.gz}.sam;
 done
 
 #step 3. Convert from sam to bam
-for file in `ls ~/mamaMit/sam`; 
+for file in `ls /home/hachepunto/mamaMit/sam`; 
 do 
-	samtools   view -h -b -S   ../sam/$file -o ~/mamaMit/bam/$file.bam;
+	samtools  view -h -b -S   /home/hachepunto/mamaMit/sam/$file \
+	 -o /home/hachepunto/mamaMit/bam/$file.bam;
 done
 
 #step 4. Sort the bam files
-for file in `ls ~/mamaMit/bam`; 
+for file in `ls /home/hachepunto/mamaMit/bam`; 
 do 
-	samtools sort ~/mamaMit/bam/$file -T ~/mamaMit/bam/$file.nnnn.bam -o ~/mamaMit/sorted/$file.sorted;
+	samtools sort /home/hachepunto/mamaMit/bam/$file \
+	-T /home/hachepunto/mamaMit/bam/$file.nnnn.bam \
+	-o /home/hachepunto/mamaMit/sorted/$file;
 done
