@@ -1,9 +1,10 @@
 #!/bin/bash
 
 #step 4. Sort the bam files
-for file in `ls /home/hachepunto/mamaMit/bam`; 
+cd ../data/bam
+for file in `ls *.bam`; 
 do 
-	samtools sort /home/hachepunto/mamaMit/bam/$file \
-	-T /home/hachepunto/mamaMit/bam/$file.nnnn.bam \
-	-o /home/hachepunto/mamaMit/sorted/$file &
+	samtools sort $file \
+	-T $file.nnnn.bam \
+	-o ../sorted/$file &
 done
