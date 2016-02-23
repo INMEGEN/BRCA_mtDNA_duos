@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # step 5. index bam files
-for file in `ls /home/hachepunto/mamaMit/sorted/`; 
+cd ../data/sorted
+for file in `ls *bam`; 
 do 
-	samtools index /home/hachepunto/mamaMit/sorted/$file &
+	samtools index $file &
 done
