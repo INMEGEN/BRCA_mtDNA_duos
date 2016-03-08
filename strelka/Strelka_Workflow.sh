@@ -18,7 +18,7 @@ WORK_DIR=.
 cp $STRELKA_INSTALL_DIR/etc/strelka_config_isaac_default.ini config.ini
 
 # Step 3. Configure:
-# folder='../data/sorted' 
+
 B=( ../data/sorted/B*.bam )
 T=( ../data/sorted/T*.bam )
 for i  in `seq 0 $((${#B[@]} -1))` ;
