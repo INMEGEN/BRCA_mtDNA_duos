@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#step 4. Sort the bam files
+#step 3. Sort the bam files
 cd ../data/bam
 for file in `ls *.bam`; 
 do 

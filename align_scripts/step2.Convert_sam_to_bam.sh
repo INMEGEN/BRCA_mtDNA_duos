@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#step 3. Convert from sam to bam
+#step 2. Convert from sam to bam
 cd ../data/sam
 for file in `ls *sam`; 
 do
