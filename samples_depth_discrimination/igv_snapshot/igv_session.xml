@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="NC_012920" hasGeneTrack="true" hasSequenceTrack="true" locus="NC_012920:1-877" path="/Users/hachepunto/Google Drive/bioinfotmatics_INMEGEN/igv_session.xml" version="8">
+    <Resources>
+        <Resource path="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T120_S58.bam"/>
+        <Resource path="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T38_S117.bam"/>
+        <Resource path="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T40_S119.bam"/>
+        <Resource path="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T50_S36.bam"/>
+    </Resources>
+    <Panel height="287" name="Panel1460998943116" width="2543">
+        <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;45.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T38_S117.bam_coverage" name="T38_S117.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="false">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="234.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="60" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T38_S117.bam_junctions" name="T38_S117.bam Junctions" sortable="false" visible="false" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="60.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="40" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T38_S117.bam" name="T38_S117.bam" sortable="true" visible="true">
+            <RenderOptions colorByTag="" colorOption="NONE" flagUnmappedPairs="false" groupByTag="" maxInsertSize="1000" minInsertSize="50" shadeBasesOption="QUALITY" shadeCenters="true" showAllBases="false" sortByTag=""/>
+        </Track>
+    </Panel>
+    <Panel height="867" name="Panel1460998943139" width="2543">
+        <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;197.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="40" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T40_S119.bam_coverage" name="T40_S119.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="false">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="808.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="40" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T40_S119.bam_junctions" name="T40_S119.bam Junctions" sortable="false" visible="false" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="60.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="40" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T40_S119.bam" name="T40_S119.bam" sortable="true" visible="true">
+            <RenderOptions colorByTag="" colorOption="NONE" flagUnmappedPairs="false" groupByTag="" maxInsertSize="1000" minInsertSize="50" shadeBasesOption="QUALITY" shadeCenters="true" showAllBases="false" sortByTag=""/>
+        </Track>
+    </Panel>
+    <Panel height="415" name="Panel1460998948720" width="2543">
+        <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;60.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="40" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T120_S58.bam_coverage" name="T120_S58.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="false">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="373.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="40" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T120_S58.bam_junctions" name="T120_S58.bam Junctions" sortable="false" visible="false" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="60.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="40" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T120_S58.bam" name="T120_S58.bam" sortable="true" visible="true">
+            <RenderOptions colorByTag="" colorOption="NONE" flagUnmappedPairs="false" groupByTag="" maxInsertSize="1000" minInsertSize="50" shadeBasesOption="QUALITY" shadeCenters="true" showAllBases="false" sortByTag=""/>
+        </Track>
+    </Panel>
+    <Panel height="694" name="Panel1460998948741" width="2543">
+        <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;217.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="40" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T50_S36.bam_coverage" name="T50_S36.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="false">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="650.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="40" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T50_S36.bam_junctions" name="T50_S36.bam Junctions" sortable="false" visible="false" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="60.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="40" id="/Users/hachepunto/mnt/indra/proyectos/BRCA_mtDNA/data/sorted/T50_S36.bam" name="T50_S36.bam" sortable="true" visible="true">
+            <RenderOptions colorByTag="" colorOption="NONE" flagUnmappedPairs="false" groupByTag="" maxInsertSize="1000" minInsertSize="50" shadeBasesOption="QUALITY" shadeCenters="true" showAllBases="false" sortByTag=""/>
+        </Track>
+    </Panel>
+    <Panel height="68" name="FeaturePanel" width="2543">
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="Reference sequence" name="Reference sequence" sortable="false" visible="true"/>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="35" id="NC_012920_genes" name="Annotations" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.004995836802664446,0.24812656119900084,0.5928393005828476,0.8126561199000832,0.9392173189009159"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
