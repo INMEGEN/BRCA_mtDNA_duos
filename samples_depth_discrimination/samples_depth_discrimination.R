@@ -71,7 +71,7 @@ bplot <- ggplot(dfm_b, aes(x = base_pair, y = coverage, colour = sample)) + geom
 grid.arrange(aplot, bplot, nrow=2)
 
 
-threshold = 300 #change
+threshold = 200 #change
 
 # Filtered samples
  
