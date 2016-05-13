@@ -9,8 +9,8 @@ do
 	vcftools --vcf \
 		 ${B[$i]} \
 		--diff ${T[$i]} \
-		--out ./comparisons/compare${b}-${t};
+		--out ../data/full_variants/comparisons/${b}-${t};
 done
 
 
-#vcftools --vcf B105_S41.vcf --diff T105_S45.vcf --out compare105
+#vcftools --vcf ../data/full_variants/B105_S41.vcf --diff ../data/full_variants/T105_S45.vcf --out ../data/full_variants/comparisons/B105_S41-T105_S45
