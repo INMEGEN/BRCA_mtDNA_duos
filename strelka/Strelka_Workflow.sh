@@ -30,12 +30,12 @@ do
 		--tumor=${T[$i]} \
 		--ref=../reference/NC_012920.fasta \
 		--config=./config.ini \
-		--output-dir=./${b}-${t};
+		--output-dir=../data/strelka/${b}-${t};
 done
 
 
 # Step 4. Run Analysis
-sk=( B* )
+sk=( ../data/strelka/B* )
 for i  in `seq 0 $((${#sk[@]} -1))` ;
 do
 	(

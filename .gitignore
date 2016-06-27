@@ -64,5 +64,25 @@ target/
 # emacs backups
 *~
 
+# excel
+~$*
+
 # mac stuff
 ._*
+.Rapp.history
+.DS_Store
+
+
+
+# Reference
+reference/NC_012920.fasta
+reference/NC_012920.fasta~
+reference/NC_012920.fasta.amb
+reference/NC_012920.fasta.ann
+reference/NC_012920.fasta.bwt
+reference/NC_012920.fasta.fai
+reference/NC_012920.fasta.pac
+reference/NC_012920.fasta.sa
+
+# Data
+data/
