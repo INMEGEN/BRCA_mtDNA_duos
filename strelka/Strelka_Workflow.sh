@@ -2,7 +2,7 @@
 
 # location where strelka was installed to:
 #
-STRELKA_INSTALL_DIR=/home/hachepunto/opt/strelka_workflow/
+STRELKA_INSTALL_DIR=/proyectos/home/hachepunto/opt/strelka_workflow/
 
 # location where analysis will be run:
 #

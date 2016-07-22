@@ -1,0 +1,172 @@
+##fileformat=VCFv4.2
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/strelka/../data/strelka/B105_S41-T105_S45/config/run.config.ini
+##maxDepth_MT=3510.28971511347
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B106_S49-T106_S53/config/run.config.ini
+##maxDepth_MT=3531.82188556253
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B108_S57-T108_S6/config/run.config.ini
+##maxDepth_MT=3274.42557943023
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B116_S39-T116_S2/config/run.config.ini
+##maxDepth_MT=4659.41447368421
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B120_S12-T120_S1/config/run.config.ini
+##maxDepth_MT=4513.60574601642
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B121_S10-T121_S31/config/run.config.ini
+##maxDepth_MT=3261.74275712216
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B123_S84-T123_S80/config/run.config.ini
+##maxDepth_MT=1443.70962095606
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B124_S9-T124_S87/config/run.config.ini
+##maxDepth_MT=3273.18958232738
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B125_S90-T125_S96/config/run.config.ini
+##maxDepth_MT=2559.79979478513
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B126_S33-T126_S51/config/run.config.ini
+##maxDepth_MT=3443.24692177692
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B135_S11-T135_S15/config/run.config.ini
+##maxDepth_MT=3068.55021728634
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B137_S19-T137_S23/config/run.config.ini
+##maxDepth_MT=2253.37626750362
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B138_S27-T138_S123/config/run.config.ini
+##maxDepth_MT=2584.83208594882
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B140_S15-T140_S5/config/run.config.ini
+##maxDepth_MT=3139.0094760985
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B141_S59-T141_S9/config/run.config.ini
+##maxDepth_MT=700.018167551907
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B142_S42-T142_S46/config/run.config.ini
+##maxDepth_MT=2285.73617817479
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B143_S92-T143_S98/config/run.config.ini
+##maxDepth_MT=2290.04333655239
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B149_S8-T149_S54/config/run.config.ini
+##maxDepth_MT=2982.67829550942
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B150_S58-T150_S62/config/run.config.ini
+##maxDepth_MT=3279.50030178658
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B154_S93-T154_S99/config/run.config.ini
+##maxDepth_MT=1794.04472477064
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B155_S18-T155_S37/config/run.config.ini
+##maxDepth_MT=2912.35592708836
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B158_S11-T158_S26/config/run.config.ini
+##maxDepth_MT=8119.89835828102
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B160_S26-T160_S43/config/run.config.ini
+##maxDepth_MT=2707.49185176243
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B165_S24-T165_S22/config/run.config.ini
+##maxDepth_MT=4215.51913326895
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B168_S77-T168_S32/config/run.config.ini
+##maxDepth_MT=1742.973201352
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B169_S85-T169_S81/config/run.config.ini
+##maxDepth_MT=1734.59101883148
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B172_S28-T172_S5/config/run.config.ini
+##maxDepth_MT=4685.76225253501
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B178_S94-T178_S100/config/run.config.ini
+##maxDepth_MT=2889.47585707388
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B184_S20-T184_S52/config/run.config.ini
+##maxDepth_MT=1929.23774746499
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B186_S95-T186_S101/config/run.config.ini
+##maxDepth_MT=2506.49185176243
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B189_S28-T189_S16/config/run.config.ini
+##maxDepth_MT=2247.30293336552
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B190_S34-T190_S38/config/run.config.ini
+##maxDepth_MT=2779.2713061323
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B192_S40-T192_S44/config/run.config.ini
+##maxDepth_MT=3487.36546354418
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B193_S43-T193_S32/config/run.config.ini
+##maxDepth_MT=2528.77094398841
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B194_S51-T194_S39/config/run.config.ini
+##maxDepth_MT=1892.09337276678
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B196_S59-T196_S47/config/run.config.ini
+##maxDepth_MT=2469.17401014003
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B198_S68-T198_S55/config/run.config.ini
+##maxDepth_MT=2544.07731772091
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B200_S13-T200_S63/config/run.config.ini
+##maxDepth_MT=3985.99577498793
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B26_S10-T26_S78/config/run.config.ini
+##maxDepth_MT=10504.7549492999
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B28_S1-T28_S7/config/run.config.ini
+##maxDepth_MT=1644.73985997103
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B29_S29-T29_S35/config/run.config.ini
+##maxDepth_MT=4493.01569290198
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B30_S22-T30_S49/config/run.config.ini
+##maxDepth_MT=3609.01032110092
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B31_S70-T31_S13/config/run.config.ini
+##maxDepth_MT=2083.60049492999
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B37_S41-T37_S48/config/run.config.ini
+##maxDepth_MT=4072.12427571222
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B38_S31-T38_S117/config/run.config.ini
+##maxDepth_MT=2973.97217527764
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B39_S114-T39_S118/config/run.config.ini
+##maxDepth_MT=3561.48654031869
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B40_S115-T40_S7/config/run.config.ini
+##maxDepth_MT=1809.79744084983
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B41_S116-T41_S120/config/run.config.ini
+##maxDepth_MT=2536.22730564944
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B45_S82-T45_S21/config/run.config.ini
+##maxDepth_MT=3562.39769435056
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B48_S53-T48_S29/config/run.config.ini
+##maxDepth_MT=3397.50615644616
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B50_S17-T50_S3/config/run.config.ini
+##maxDepth_MT=2294.5031385804
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B55_S25-T55_S44/config/run.config.ini
+##maxDepth_MT=2435.59113954611
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B58_S33-T58_S52/config/run.config.ini
+##maxDepth_MT=2183.93318445196
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B59_S88-T59_S8/config/run.config.ini
+##maxDepth_MT=1788.52329792371
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B62_S46-T62_S25/config/run.config.ini
+##maxDepth_MT=2346.77969579913
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B69_S23-T69_S30/config/run.config.ini
+##maxDepth_MT=3791.62192177692
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B71_S40-T71_S60/config/run.config.ini
+##maxDepth_MT=2114.22573635925
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B73_S48-T73_S69/config/run.config.ini
+##maxDepth_MT=2282.23804925157
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B74_S27-T74_S36/config/run.config.ini
+##maxDepth_MT=4784.05643408981
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B75_S56-T75_S74/config/run.config.ini
+##maxDepth_MT=2450.62988894254
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B76_S65-T76_S79/config/run.config.ini
+##maxDepth_MT=2879.38399323998
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B79_S71-T79_S86/config/run.config.ini
+##maxDepth_MT=1653.74637856108
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B81_S83-T81_S50/config/run.config.ini
+##maxDepth_MT=1526.4317962337
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B82_S47-T82_S14/config/run.config.ini
+##maxDepth_MT=4231.27764365041
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B94_S6-T94_S42/config/run.config.ini
+##maxDepth_MT=2492.6407532593
+##startTime=Mon Jul 18 23:30:59 2016
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B96_S4-T96_S30/config/run.config.ini
+##maxDepth_MT=2532.51569290198
+##fileDate=20160718
+##source=strelka
+##source_version=2.0.17.strelka1
+##startTime=Mon Jul 18 23:30:59 2016
+##reference=file:///proyectos/home/hachepunto/BRCA_mtDNA_duos/reference/NC_012920.fasta
+##contig=<ID=MT,length=16569>
+##content=strelka somatic snv calls
+##germlineSnvTheta=0.001
+##priorSomaticSnvRate=1e-06
+##INFO=<ID=QSS,Number=1,Type=Integer,Description="Quality score for any somatic snv, ie. for the ALT allele to be present at a significantly different frequency in the tumor and normal">
+##INFO=<ID=TQSS,Number=1,Type=Integer,Description="Data tier used to compute QSS">
+##INFO=<ID=NT,Number=1,Type=String,Description="Genotype of the normal in all data tiers, as used to classify somatic variants. One of {ref,het,hom,conflict}.">
+##INFO=<ID=QSS_NT,Number=1,Type=Integer,Description="Quality score reflecting the joint probability of a somatic variant and NT">
+##INFO=<ID=TQSS_NT,Number=1,Type=Integer,Description="Data tier used to compute QSS_NT">
+##INFO=<ID=SGT,Number=1,Type=String,Description="Most likely somatic genotype excluding normal noise states">
+##INFO=<ID=SOMATIC,Number=0,Type=Flag,Description="Somatic mutation">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read depth for tier1 (used+filtered)">
+##FORMAT=<ID=FDP,Number=1,Type=Integer,Description="Number of basecalls filtered from original read depth for tier1">
+##FORMAT=<ID=SDP,Number=1,Type=Integer,Description="Number of reads with deletions spanning this site at tier1">
+##FORMAT=<ID=SUBDP,Number=1,Type=Integer,Description="Number of reads below tier1 mapping quality threshold aligned across this site">
+##FORMAT=<ID=AU,Number=2,Type=Integer,Description="Number of 'A' alleles used in tiers 1,2">
+##FORMAT=<ID=CU,Number=2,Type=Integer,Description="Number of 'C' alleles used in tiers 1,2">
+##FORMAT=<ID=GU,Number=2,Type=Integer,Description="Number of 'G' alleles used in tiers 1,2">
+##FORMAT=<ID=TU,Number=2,Type=Integer,Description="Number of 'T' alleles used in tiers 1,2">
+##FILTER=<ID=DP,Description="Greater than 3.0x chromosomal mean depth in Normal sample">
+##FILTER=<ID=BCNoise,Description="Fraction of basecalls filtered at this site in either sample is at or above 0.4">
+##FILTER=<ID=SpanDel,Description="Fraction of reads crossing site with spanning deletions in either sample exceeeds 0.75">
+##FILTER=<ID=QSS_ref,Description="Normal sample is not homozygous ref or ssnv Q-score < 15, ie calls with NT!=ref or QSS_NT < 15">
+##cmdline=/proyectos/home/hachepunto/opt/strelka_workflow/libexec/consolidateResults.pl --config=/proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/B97_S34-T97_S4/config/run.config.ini
+##maxDepth_MT=2770.0272211492
+##source_20160721.1=vcf-merge(r940) data/B105_S41-T105_S45.vcf.gz data/B106_S49-T106_S53.vcf.gz data/B108_S57-T108_S6.vcf.gz data/B116_S39-T116_S2.vcf.gz data/B120_S12-T120_S1.vcf.gz data/B121_S10-T121_S31.vcf.gz data/B123_S84-T123_S80.vcf.gz data/B124_S9-T124_S87.vcf.gz data/B125_S90-T125_S96.vcf.gz data/B126_S33-T126_S51.vcf.gz data/B135_S11-T135_S15.vcf.gz data/B137_S19-T137_S23.vcf.gz data/B138_S27-T138_S123.vcf.gz data/B140_S15-T140_S5.vcf.gz data/B141_S59-T141_S9.vcf.gz data/B142_S42-T142_S46.vcf.gz data/B143_S92-T143_S98.vcf.gz data/B149_S8-T149_S54.vcf.gz data/B150_S58-T150_S62.vcf.gz data/B154_S93-T154_S99.vcf.gz data/B155_S18-T155_S37.vcf.gz data/B158_S11-T158_S26.vcf.gz data/B160_S26-T160_S43.vcf.gz data/B165_S24-T165_S22.vcf.gz data/B168_S77-T168_S32.vcf.gz data/B169_S85-T169_S81.vcf.gz data/B172_S28-T172_S5.vcf.gz data/B178_S94-T178_S100.vcf.gz data/B184_S20-T184_S52.vcf.gz data/B186_S95-T186_S101.vcf.gz data/B189_S28-T189_S16.vcf.gz data/B190_S34-T190_S38.vcf.gz data/B192_S40-T192_S44.vcf.gz data/B193_S43-T193_S32.vcf.gz data/B194_S51-T194_S39.vcf.gz data/B196_S59-T196_S47.vcf.gz data/B198_S68-T198_S55.vcf.gz data/B200_S13-T200_S63.vcf.gz data/B26_S10-T26_S78.vcf.gz data/B28_S1-T28_S7.vcf.gz data/B29_S29-T29_S35.vcf.gz data/B30_S22-T30_S49.vcf.gz data/B31_S70-T31_S13.vcf.gz data/B37_S41-T37_S48.vcf.gz data/B38_S31-T38_S117.vcf.gz data/B39_S114-T39_S118.vcf.gz data/B40_S115-T40_S7.vcf.gz data/B41_S116-T41_S120.vcf.gz data/B45_S82-T45_S21.vcf.gz data/B48_S53-T48_S29.vcf.gz data/B50_S17-T50_S3.vcf.gz data/B55_S25-T55_S44.vcf.gz data/B58_S33-T58_S52.vcf.gz data/B59_S88-T59_S8.vcf.gz data/B62_S46-T62_S25.vcf.gz data/B69_S23-T69_S30.vcf.gz data/B71_S40-T71_S60.vcf.gz data/B73_S48-T73_S69.vcf.gz data/B74_S27-T74_S36.vcf.gz data/B75_S56-T75_S74.vcf.gz data/B76_S65-T76_S79.vcf.gz data/B79_S71-T79_S86.vcf.gz data/B81_S83-T81_S50.vcf.gz data/B82_S47-T82_S14.vcf.gz data/B94_S6-T94_S42.vcf.gz data/B96_S4-T96_S30.vcf.gz data/B97_S34-T97_S4.vcf.gz
+##sourceFiles_20160721.1=0:data/B105_S41-T105_S45.vcf.gz,1:data/B106_S49-T106_S53.vcf.gz,2:data/B108_S57-T108_S6.vcf.gz,3:data/B116_S39-T116_S2.vcf.gz,4:data/B120_S12-T120_S1.vcf.gz,5:data/B121_S10-T121_S31.vcf.gz,6:data/B123_S84-T123_S80.vcf.gz,7:data/B124_S9-T124_S87.vcf.gz,8:data/B125_S90-T125_S96.vcf.gz,9:data/B126_S33-T126_S51.vcf.gz,10:data/B135_S11-T135_S15.vcf.gz,11:data/B137_S19-T137_S23.vcf.gz,12:data/B138_S27-T138_S123.vcf.gz,13:data/B140_S15-T140_S5.vcf.gz,14:data/B141_S59-T141_S9.vcf.gz,15:data/B142_S42-T142_S46.vcf.gz,16:data/B143_S92-T143_S98.vcf.gz,17:data/B149_S8-T149_S54.vcf.gz,18:data/B150_S58-T150_S62.vcf.gz,19:data/B154_S93-T154_S99.vcf.gz,20:data/B155_S18-T155_S37.vcf.gz,21:data/B158_S11-T158_S26.vcf.gz,22:data/B160_S26-T160_S43.vcf.gz,23:data/B165_S24-T165_S22.vcf.gz,24:data/B168_S77-T168_S32.vcf.gz,25:data/B169_S85-T169_S81.vcf.gz,26:data/B172_S28-T172_S5.vcf.gz,27:data/B178_S94-T178_S100.vcf.gz,28:data/B184_S20-T184_S52.vcf.gz,29:data/B186_S95-T186_S101.vcf.gz,30:data/B189_S28-T189_S16.vcf.gz,31:data/B190_S34-T190_S38.vcf.gz,32:data/B192_S40-T192_S44.vcf.gz,33:data/B193_S43-T193_S32.vcf.gz,34:data/B194_S51-T194_S39.vcf.gz,35:data/B196_S59-T196_S47.vcf.gz,36:data/B198_S68-T198_S55.vcf.gz,37:data/B200_S13-T200_S63.vcf.gz,38:data/B26_S10-T26_S78.vcf.gz,39:data/B28_S1-T28_S7.vcf.gz,40:data/B29_S29-T29_S35.vcf.gz,41:data/B30_S22-T30_S49.vcf.gz,42:data/B31_S70-T31_S13.vcf.gz,43:data/B37_S41-T37_S48.vcf.gz,44:data/B38_S31-T38_S117.vcf.gz,45:data/B39_S114-T39_S118.vcf.gz,46:data/B40_S115-T40_S7.vcf.gz,47:data/B41_S116-T41_S120.vcf.gz,48:data/B45_S82-T45_S21.vcf.gz,49:data/B48_S53-T48_S29.vcf.gz,50:data/B50_S17-T50_S3.vcf.gz,51:data/B55_S25-T55_S44.vcf.gz,52:data/B58_S33-T58_S52.vcf.gz,53:data/B59_S88-T59_S8.vcf.gz,54:data/B62_S46-T62_S25.vcf.gz,55:data/B69_S23-T69_S30.vcf.gz,56:data/B71_S40-T71_S60.vcf.gz,57:data/B73_S48-T73_S69.vcf.gz,58:data/B74_S27-T74_S36.vcf.gz,59:data/B75_S56-T75_S74.vcf.gz,60:data/B76_S65-T76_S79.vcf.gz,61:data/B79_S71-T79_S86.vcf.gz,62:data/B81_S83-T81_S50.vcf.gz,63:data/B82_S47-T82_S14.vcf.gz,64:data/B94_S6-T94_S42.vcf.gz,65:data/B96_S4-T96_S30.vcf.gz,66:data/B97_S34-T97_S4.vcf.gz
+##INFO=<ID=SF,Number=.,Type=String,Description="Source File (index to sourceFiles, f when filtered)">
+##INFO=<ID=AC,Number=.,Type=Integer,Description="Allele count in genotypes">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">
+##VEP=v84 cache=/proyectos/home/hachepunto/.vep/homo_sapiens/84_GRCh37 db=. ESP=20141103 assembly=GRCh37.p13 HGMD-PUBLIC=20152 gencode=GENCODE 19 ClinVar=201507 sift=sift5.2.2 polyphen=2.2.2 genebuild=2011-04 regbuild=13 dbSNP=144 COSMIC=71
+##INFO=<ID=CSQ,Number=.,Type=String,Description="Consequence annotations from Ensembl VEP. Format: Allele|Consequence|IMPACT|SYMBOL|Gene|Feature_type|Feature|BIOTYPE|EXON|INTRON|HGVSc|HGVSp|cDNA_position|CDS_position|Protein_position|Amino_acids|Codons|Existing_variation|DISTANCE|STRAND|FLAGS|VARIANT_CLASS|SYMBOL_SOURCE|HGNC_ID|CANONICAL|TSL|APPRIS|CCDS|ENSP|SWISSPROT|TREMBL|UNIPARC|GENE_PHENO|SIFT|PolyPhen|DOMAINS|HGVS_OFFSET|GMAF|AFR_MAF|AMR_MAF|EAS_MAF|EUR_MAF|SAS_MAF|AA_MAF|EA_MAF|ExAC_MAF|ExAC_Adj_MAF|ExAC_AFR_MAF|ExAC_AMR_MAF|ExAC_EAS_MAF|ExAC_FIN_MAF|ExAC_NFE_MAF|ExAC_OTH_MAF|ExAC_SAS_MAF|CLIN_SIG|SOMATIC|PHENO|PUBMED|MOTIF_NAME|MOTIF_POS|HIGH_INF_POS|MOTIF_SCORE_CHANGE">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	NORMAL	TUMOR	B106_S49-T106_S53_NORMAL	B106_S49-T106_S53_TUMOR	B108_S57-T108_S6_NORMAL	B108_S57-T108_S6_TUMOR	B116_S39-T116_S2_NORMAL	B116_S39-T116_S2_TUMOR	B120_S12-T120_S1_NORMAL	B120_S12-T120_S1_TUMOR	B121_S10-T121_S31_NORMAL	B121_S10-T121_S31_TUMOR	B123_S84-T123_S80_NORMAL	B123_S84-T123_S80_TUMOR	B124_S9-T124_S87_NORMAL	B124_S9-T124_S87_TUMOR	B125_S90-T125_S96_NORMAL	B125_S90-T125_S96_TUMOR	B126_S33-T126_S51_NORMAL	B126_S33-T126_S51_TUMOR	B135_S11-T135_S15_NORMAL	B135_S11-T135_S15_TUMOR	B137_S19-T137_S23_NORMAL	B137_S19-T137_S23_TUMOR	B138_S27-T138_S123_NORMAL	B138_S27-T138_S123_TUMOR	B140_S15-T140_S5_NORMAL	B140_S15-T140_S5_TUMOR	B141_S59-T141_S9_NORMAL	B141_S59-T141_S9_TUMOR	B142_S42-T142_S46_NORMAL	B142_S42-T142_S46_TUMOR	B143_S92-T143_S98_NORMAL	B143_S92-T143_S98_TUMOR	B149_S8-T149_S54_NORMAL	B149_S8-T149_S54_TUMOR	B150_S58-T150_S62_NORMAL	B150_S58-T150_S62_TUMOR	B154_S93-T154_S99_NORMAL	B154_S93-T154_S99_TUMOR	B155_S18-T155_S37_NORMAL	B155_S18-T155_S37_TUMOR	B158_S11-T158_S26_NORMAL	B158_S11-T158_S26_TUMOR	B160_S26-T160_S43_NORMAL	B160_S26-T160_S43_TUMOR	B165_S24-T165_S22_NORMAL	B165_S24-T165_S22_TUMOR	B168_S77-T168_S32_NORMAL	B168_S77-T168_S32_TUMOR	B169_S85-T169_S81_NORMAL	B169_S85-T169_S81_TUMOR	B172_S28-T172_S5_NORMAL	B172_S28-T172_S5_TUMOR	B178_S94-T178_S100_NORMAL	B178_S94-T178_S100_TUMOR	B184_S20-T184_S52_NORMAL	B184_S20-T184_S52_TUMOR	B186_S95-T186_S101_NORMAL	B186_S95-T186_S101_TUMOR	B189_S28-T189_S16_NORMAL	B189_S28-T189_S16_TUMOR	B190_S34-T190_S38_NORMAL	B190_S34-T190_S38_TUMOR	B192_S40-T192_S44_NORMAL	B192_S40-T192_S44_TUMOR	B193_S43-T193_S32_NORMAL	B193_S43-T193_S32_TUMOR	B194_S51-T194_S39_NORMAL	B194_S51-T194_S39_TUMOR	B196_S59-T196_S47_NORMAL	B196_S59-T196_S47_TUMOR	B198_S68-T198_S55_NORMAL	B198_S68-T198_S55_TUMOR	B200_S13-T200_S63_NORMAL	B200_S13-T200_S63_TUMOR	B26_S10-T26_S78_NORMAL	B26_S10-T26_S78_TUMOR	B28_S1-T28_S7_NORMAL	B28_S1-T28_S7_TUMOR	B29_S29-T29_S35_NORMAL	B29_S29-T29_S35_TUMOR	B30_S22-T30_S49_NORMAL	B30_S22-T30_S49_TUMOR	B31_S70-T31_S13_NORMAL	B31_S70-T31_S13_TUMOR	B37_S41-T37_S48_NORMAL	B37_S41-T37_S48_TUMOR	B38_S31-T38_S117_NORMAL	B38_S31-T38_S117_TUMOR	B39_S114-T39_S118_NORMAL	B39_S114-T39_S118_TUMOR	B40_S115-T40_S7_NORMAL	B40_S115-T40_S7_TUMOR	B41_S116-T41_S120_NORMAL	B41_S116-T41_S120_TUMOR	B45_S82-T45_S21_NORMAL	B45_S82-T45_S21_TUMOR	B48_S53-T48_S29_NORMAL	B48_S53-T48_S29_TUMOR	B50_S17-T50_S3_NORMAL	B50_S17-T50_S3_TUMOR	B55_S25-T55_S44_NORMAL	B55_S25-T55_S44_TUMOR	B58_S33-T58_S52_NORMAL	B58_S33-T58_S52_TUMOR	B59_S88-T59_S8_NORMAL	B59_S88-T59_S8_TUMOR	B62_S46-T62_S25_NORMAL	B62_S46-T62_S25_TUMOR	B69_S23-T69_S30_NORMAL	B69_S23-T69_S30_TUMOR	B71_S40-T71_S60_NORMAL	B71_S40-T71_S60_TUMOR	B73_S48-T73_S69_NORMAL	B73_S48-T73_S69_TUMOR	B74_S27-T74_S36_NORMAL	B74_S27-T74_S36_TUMOR	B75_S56-T75_S74_NORMAL	B75_S56-T75_S74_TUMOR	B76_S65-T76_S79_NORMAL	B76_S65-T76_S79_TUMOR	B79_S71-T79_S86_NORMAL	B79_S71-T79_S86_TUMOR	B81_S83-T81_S50_NORMAL	B81_S83-T81_S50_TUMOR	B82_S47-T82_S14_NORMAL	B82_S47-T82_S14_TUMOR	B94_S6-T94_S42_NORMAL	B94_S6-T94_S42_TUMOR	B96_S4-T96_S30_NORMAL	B96_S4-T96_S30_TUMOR	B97_S34-T97_S4_NORMAL	B97_S34-T97_S4_TUMOR

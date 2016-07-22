@@ -78,3 +78,67 @@ perl variant_effect_predictor.pl \
 	-i /proyectos/home/hachepunto/BRCA_mtDNA_duos/data/strelka/mergevcf/passed_snvs_merged_strelka_res.vcf.gz \
 	-o /proyectos/home/hachepunto/BRCA_mtDNA_duos/VEP/passed_snvs_merged_strelka_res_VEP.vcf \
 	--stats_file /proyectos/home/hachepunto/public_html/passed_snvs_merged_strelka_res_vep.vcf_summary.html
+
+################    MCAC like    ##################
+##  --everything --fork 30 --offline --assembly GRCh37  ##
+##############################################
+
+# Strelka all.somatic.indels merge
+
+perl variant_effect_predictor.pl \
+	--everything \
+	--fork 30 \
+	--vcf \
+	--offline \
+	--assembly GRCh37 \
+	-i /labs/home/hachepunto/BRCA_mtDNA_duos/data/strelka/all.somatic.indels/mergevcf/all.somatic.indels.merged.strelka.vcf.gz \
+	-o /labs/home/hachepunto/BRCA_mtDNA_duos/VEP/all.somatic.indels.strelka.vep.vcf \
+	--stats_file /labs/home/hachepunto/public_html/all.somatic.indels.strelka.vep.vcf.summary.html
+
+# Strelka all.somatic.snvs merge
+
+perl variant_effect_predictor.pl \
+	--everything \
+	--fork 30 \
+	--vcf \
+	--offline \
+	--assembly GRCh37 \
+	-i /labs/home/hachepunto/BRCA_mtDNA_duos/data/strelka/all.somatic.snvs/mergevcf/all.somatic.snvs.merged.strelka.vcf.gz \
+	-o /labs/home/hachepunto/BRCA_mtDNA_duos/VEP/all.somatic.snvs.merged.strelka.vep.vcf \
+	--stats_file /labs/home/hachepunto/public_html/all.somatic.snvs.merged.strelka.vep.vcf.summary.html
+
+# Strelka passed.somatic.indels merge
+
+perl variant_effect_predictor.pl \
+	--everything \
+	--fork 30 \
+	--vcf \
+	--offline \
+	--assembly GRCh37 \
+	-i /labs/home/hachepunto/BRCA_mtDNA_duos/data/strelka/passed.somatic.indels/mergevcf/passed.somatic.indels.strelka.vcf.gz \
+	-o /labs/home/hachepunto/BRCA_mtDNA_duos/VEP/passed.somatic.indels.merged.strelka.vep.vcf \
+	--stats_file /labs/home/hachepunto/public_html/passed.somatic.indels.merged.strelka.vep.vcf.summary.html
+
+# Strelka passed.somatic.snvs merge
+
+perl variant_effect_predictor.pl \
+	--everything \
+	--fork 30 \
+	--vcf \
+	--offline \
+	--assembly GRCh37 \
+	-i /labs/home/hachepunto/BRCA_mtDNA_duos/data/strelka/passed.somatic.snvs/mergevcf/passed.somatic.snvs.merged.strelka.vcf.gz \
+	-o /labs/home/hachepunto/BRCA_mtDNA_duos/VEP/passed.somatic.snvs.merged.strelka.vep.vcf \
+	--stats_file /labs/home/hachepunto/public_html/passed.somatic.snvs.merged.strelka.vep.vcf.summary.html
+
+# All samples VEP
+
+perl variant_effect_predictor.pl \
+	--everything \
+	--fork 30 \
+	--vcf \
+	--offline \
+	--assembly GRCh37 \
+	-i /labs/home/hachepunto/BRCA_mtDNA_duos/data/full_variants/mergevcf/all.merged.vcf.gz \
+	-o /labs/home/hachepunto/BRCA_mtDNA_duos/VEP/all.merged.vep.vcf \
+	--stats_file /labs/home/hachepunto/public_html/all.merged.vep.vcf.summary.html
